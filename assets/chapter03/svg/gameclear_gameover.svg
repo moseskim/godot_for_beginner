@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)"
+   sodipodi:docname="panel.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.5858266"
+     inkscape:cx="428.45014"
+     inkscape:cy="510.68697"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1440"
+     inkscape:window-height="855"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="レイヤー 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:0.999;fill:#c1c1c1;stroke:#6d6d6d;stroke-width:3.18606;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect833"
+       width="202.72458"
+       height="81.306946"
+       x="3.4553277"
+       y="46.739082"
+       ry="21.798979"
+       inkscape:export-xdpi="98.683586"
+       inkscape:export-ydpi="98.683586" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.2222px;line-height:1.25;font-family:Silom;-inkscape-font-specification:Silom;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="22.397326"
+       y="97.975883"
+       id="text840"
+       inkscape:export-xdpi="98.683586"
+       inkscape:export-ydpi="98.683586"><tspan
+         sodipodi:role="line"
+         id="tspan838"
+         x="22.397326"
+         y="97.975883"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.2222px;font-family:Silom;-inkscape-font-specification:Silom;fill:#af0505;fill-opacity:1;stroke:none;stroke-width:2.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Game Over</tspan></text>
+    <rect
+       style="opacity:0.999;fill:#9bf38f;fill-opacity:1;stroke:#1ac55a;stroke-width:3.18606;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect860"
+       width="202.72458"
+       height="81.306946"
+       x="3.4553275"
+       y="147.45503"
+       ry="21.798979"
+       inkscape:export-xdpi="98.683586"
+       inkscape:export-ydpi="98.683586" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:28.2222px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="17.684443"
+       y="198.69183"
+       id="text864"
+       inkscape:export-xdpi="98.683586"
+       inkscape:export-ydpi="98.683586"><tspan
+         sodipodi:role="line"
+         id="tspan862"
+         x="17.684443"
+         y="198.69183"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.2222px;font-family:Silom;-inkscape-font-specification:Silom;fill:#070707;fill-opacity:1;stroke:none;stroke-width:2.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Game Clear</tspan></text>
+  </g>
+</svg>

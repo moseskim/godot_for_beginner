@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="timeout_gameover.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.5858266"
+     inkscape:cx="367.0028"
+     inkscape:cy="566.7206"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1730"
+     inkscape:window-height="1564"
+     inkscape:window-x="3908"
+     inkscape:window-y="54"
+     inkscape:window-maximized="0"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="レイヤー 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:0.999;fill:#c1c1c1;stroke:#6d6d6d;stroke-width:3.18606;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect833"
+       width="202.72458"
+       height="81.306946"
+       x="3.4553277"
+       y="46.739082"
+       ry="21.798979"
+       inkscape:export-xdpi="98.683586"
+       inkscape:export-ydpi="98.683586"
+       inkscape:export-filename="..\images\gameover.png" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.2222px;line-height:1.25;font-family:Elephant;-inkscape-font-specification:'Elephant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="24.200884"
+       y="97.665436"
+       id="text840"
+       inkscape:export-xdpi="98.683586"
+       inkscape:export-ydpi="98.683586"><tspan
+         sodipodi:role="line"
+         id="tspan838"
+         x="24.200884"
+         y="97.665436"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.2222px;font-family:Elephant;-inkscape-font-specification:'Elephant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#af0505;fill-opacity:1;stroke:none;stroke-width:2.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Game Over</tspan></text>
+    <rect
+       style="opacity:0.999;fill:#9bf38f;fill-opacity:1;stroke:#1ac55a;stroke-width:3.18606;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect860"
+       width="202.72458"
+       height="81.306946"
+       x="3.4553275"
+       y="147.45503"
+       ry="21.798979"
+       inkscape:export-xdpi="98.683586"
+       inkscape:export-ydpi="98.683586"
+       inkscape:export-filename="..\images\timeout.png" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.2222px;line-height:1.25;font-family:Elephant;-inkscape-font-specification:'Elephant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="36.435219"
+       y="198.39549"
+       id="text864"
+       inkscape:export-xdpi="98.683586"
+       inkscape:export-ydpi="98.683586"><tspan
+         sodipodi:role="line"
+         id="tspan862"
+         x="36.435219"
+         y="198.39549"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.2222px;font-family:Elephant;-inkscape-font-specification:'Elephant, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#070707;fill-opacity:1;stroke:none;stroke-width:2.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Timeout!!</tspan></text>
+  </g>
+</svg>
